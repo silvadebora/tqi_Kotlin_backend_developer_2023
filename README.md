@@ -90,7 +90,7 @@
 <figure>
 <p align="center">
   <img src="jumarket.png" height="450" width="650" alt="API Simuladora de Auto-atendimento"/><br>
-  Diagrama UML Simplificado de uma API API Simuladora de Auto-atendimento
+  Diagrama UML Simplificado de uma API Simuladora de Auto-atendimento
 </p>
 </figure>
 
